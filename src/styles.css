@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.board {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.board img {
+}
+
+.current-word-display {
+  margin-top: 50px;
+  font-size: 50px;
+}

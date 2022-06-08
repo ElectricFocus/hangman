@@ -1,0 +1,18 @@
+[
+  {
+    "target": "Hello World",
+    "difficulty": 1
+  },
+  {
+    "target": "I love coding",
+    "difficulty": 2
+  },
+  {
+    "target": "Javascript is awesome",
+    "difficulty": 3
+  },
+  {
+    "target": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+    "difficulty": 5
+  }
+]
